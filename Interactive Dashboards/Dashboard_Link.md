@@ -1,1 +1,2 @@
 [Dashboard Link Via Cognos Analytics ](https://dataplatform.cloud.ibm.com/dashboards/c6e3aba0-53cd-4948-876b-2f59753c3170?project_id=47b39664-fb87-498f-8693-804a67b69131&mode=undefined)
+[Dashboard Link Via Cognos Analytics ](https://dataplatform.cloud.ibm.com/dashboards/c6e3aba0-53cd-4948-876b-2f59753c3170/view/6317d10000ef15cc4beabde4079d2b547e3e235bb6bbd55188827b4906682797a96f1a92c8274b5e8b170231f5e5135ac8)
