@@ -4,7 +4,9 @@
 This repository contains the IT Skills Trends Analysis Project, a detailed exploration of current and emerging trends in the information technology sector. The project specifically focuses on identifying the most in-demand programming languages and database technologies, providing key insights for educators, IT professionals, and industry analysts.
 
 
-[Stack Overflow Page](https://www.google.com](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/)
+[Stack Overflow Page](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/)
+
+
 ## Project Structure
 
 ### `Presentation Slides/`
