@@ -6,7 +6,7 @@ This repository contains the IT Skills Trends Analysis Project, a detailed explo
 ## Project Structure
 
 ### `Presentation Slides/`
-- Contains a series of PowerPoint slides that detail the findings of the analysis.
+- Contains a series of PowerPoint slides that detail the findings of the analysis .
 - Slides include topics like "Programming Languages Trends," "Database Trends," "Overall Findings and Implications," and more.
 - Innovative elements like interactive Q&A session formats are discussed.
 
